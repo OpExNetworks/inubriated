@@ -1,0 +1,118 @@
+{
+    "count": 5,
+    "next_page": null,
+    "page": 1,
+    "page_count": 1,
+    "per_page": 30,
+    "previous_page": null,
+    "faqs": [
+             {
+             "id": "ID_1",
+             "author": "",
+             "hidden": false,
+             "position": 0,
+             "created_at": "2017-08-30T15:48:52Z",
+             "updated_at": "2017-08-30T15:48:52Z",
+             "title": "Expanded FAQs",
+             "summary": "Expand the FAQs to show help summary.",
+             "search": "Help, expand, list, summary",
+             "body": "<p>You can expand the the FAQ list to include showing summaries of the FAQ articles.</p><p>To expand the list just tap on the &quot;more&quot; button on the upper right corner of the Search FAQs screen.  To compress the list just press on the &quot;less&quot; button on the upper right of the screen.  The app will remember you last setting on expanding or compressing the list.</p>",
+             "section_names": [
+                               "PINNED"
+                               ],
+             "label_names": [
+                             ]
+             },
+             {
+             "id": "ID_2",
+             "author": "",
+             "hidden": false,
+             "position": 0,
+             "created_at": "2017-07-14T20:54:51Z",
+             "updated_at": "2017-08-30T15:48:03Z",
+             "title": "Auto Login",
+             "summary": "Automatically login to the app.",
+             "search": "Auto, login, iPhones, Touch ID, Face ID, password",
+             "body": "<p>Auto login is useful for iPhones where Touch ID or Face ID is not enabled but you want the app to automatically login.  This simplifies access for older phones.</p><p>Warning:  Enabling this makes access to this application less secure</p>",
+             "section_names": [
+                               "SECURITY",
+                               "PINNED"
+                               ],
+             "label_names": [
+                             ]
+             },
+             {
+             "id": "ID_3",
+             "author": "",
+             "hidden": false,
+             "position": 0,
+             "created_at": "2017-07-14T20:54:51Z",
+             "updated_at": "2017-08-30T15:48:03Z",
+             "title": "Face ID",
+             "summary": "Enable or disable Face ID.",
+             "search": "Face ID, iPhoneX, iOS Login, login",
+             "body": "<p>Face ID is offered on later iPhones.</p><p>If enabled, iOS will use this feature to automatically log you into the app.  You can enable or disable the use of this feature as you plesase. To enable you can toggle it on or off within the app under Settings.  If you don't allow Face ID by declining it when first asked on login to accept it you must go to the iOS settings for the app and enable it there.  If you wish to disable it you can just go the the app settings off there.</p>",
+             "section_names": [
+                               "SECURITY"
+                               ],
+             "label_names": [
+                             ]
+             },
+             {
+             "id": "ID_4",
+             "author": "",
+             "hidden": false,
+             "position": 0,
+             "created_at": "2017-07-14T20:54:51Z",
+             "updated_at": "2017-08-30T15:48:03Z",
+             "title": "Password",
+             "summary": "Secure your account.",
+             "search": "Password, access, Face ID, Touch ID, secure",
+             "body": "<p>The app requires you to enter a traditional password as a backup for access to the app when Face ID or Touch ID is disabled to keep the application secure.</p>",
+             "section_names": [
+                               "SECURITY"
+                               ],
+             "label_names": [
+                             ]
+             },
+             {
+             "id": "ID_5",
+             "author": "",
+             "hidden": false,
+             "position": 0,
+             "created_at": "2017-08-30T15:48:52Z",
+             "updated_at": "2017-08-30T15:48:52Z",
+             "title": "Helpful Articles symbol",
+             "summary": "Change the Helpful Articles symbol.",
+             "search": "symbol, helpful, pinned, articles",
+             "body": "<p>The user can select from several symbols in the Settings option in the Settings Menu to highlight the Helpful Articles section of the FAQs</p>",
+             "section_names": [
+                               "OTHER"
+                               ],
+             "label_names": [
+             ]
+             },
+             {
+             "id": "ID_6",
+             "author": "",
+             "hidden": false,
+             "position": 0,
+             "created_at": "2017-08-30T15:48:52Z",
+             "updated_at": "2017-08-30T15:48:52Z",
+             "title": "Landing page",
+             "summary": "Set your default landing page.",
+             "search": "landing, tab, first, default, access",
+             "body": "<p>The user can select the tab they wish to land on when they access the app.  The user can select the tab they prefer by accessing Settings under the Settings Menu.</p>",
+             "section_names": [
+                               "OTHER"
+                               ],
+             "label_names": [
+                             ]
+             }
+             ],
+    "sort_by": "position",
+    "sort_order": "asc"
+}
+
+
+
